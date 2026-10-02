@@ -1,0 +1,31 @@
+{
+  "upload_type": "dataset",
+  "title": "Caregiving Jobs vs. AI: Projections, Wages and AI-Exposure Scores for Elder-Care Occupations",
+  "version": "1.0.0",
+  "description": "<p>BLS 2025-35 employment projections, OEWS May 2025 wages and four AI-exposure/care measures (BLS relative AI exposure, Microsoft AI applicability, Anthropic observed exposure, O*NET 'Assisting and Caring for Others') for 14 hands-on care occupations and 11 high-exposure office/tech comparison occupations.</p><p>Live page: <a href=\"https://familyestateguide.com/estate-planning-data/caregiving-jobs-vs-ai/\">https://familyestateguide.com/estate-planning-data/caregiving-jobs-vs-ai/</a>. Published by Family Estate Guide.</p><p>Rights review: None. Third-party columns were checked: Microsoft 'Working with AI' data is CC BY 4.0, the Anthropic Economic Index data is released under CC-BY, and O*NET is CC BY 4.0. All are compatible with redistribution under CC BY 4.0 with attribution, given in Sources. Changes made: rounding, code averaging and percentile calculation. Note: the Anthropic Hugging Face card lists 'license: mit' in its metadata while its README says 'Data released under CC-BY'. Both permit redistribution with attribution.</p><p>Not legal, tax, financial or medical advice. Figures are estimates with sampling error; legal rules change. Verify anything important with the original source or a qualified professional.</p>",
+  "creators": [
+    {
+      "name": "Family Estate Guide",
+      "affiliation": "Family Estate Guide"
+    }
+  ],
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "artificial intelligence",
+    "AI exposure",
+    "caregiving jobs",
+    "home health aides",
+    "nursing",
+    "employment projections",
+    "O*NET",
+    "labor market"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://familyestateguide.com/estate-planning-data/caregiving-jobs-vs-ai/",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

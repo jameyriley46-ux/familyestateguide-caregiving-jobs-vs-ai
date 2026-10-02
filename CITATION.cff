@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: If you use this dataset, please cite it as below and link to https://familyestateguide.com/estate-planning-data/caregiving-jobs-vs-ai/
+type: dataset
+title: 'Caregiving Jobs vs. AI: Projections, Wages and AI-Exposure Scores for Elder-Care Occupations'
+abstract: BLS 2025-35 employment projections, OEWS May 2025 wages and four AI-exposure/care measures (BLS relative AI exposure, Microsoft AI applicability, Anthropic observed exposure, O*NET 'Assisting and Caring for Others') for 14 hands-on care occupations and 11 high-exposure office/tech comparison occupations.
+authors:
+- name: Family Estate Guide
+  website: https://familyestateguide.com
+version: 1.0.0
+date-released: '2026-10-02'
+url: https://familyestateguide.com/estate-planning-data/caregiving-jobs-vs-ai/
+repository-code: https://github.com/jameyriley46-ux/familyestateguide-caregiving-jobs-vs-ai
+license: CC-BY-4.0
+keywords:
+- artificial intelligence
+- AI exposure
+- caregiving jobs
+- home health aides
+- nursing
+- employment projections
+- O*NET
+- labor market
